@@ -40,13 +40,13 @@ The date I used here are scraped from two subreddits Nutrition and Dietetics, ag
 <p align = 'center'>
     <img src="./images/common_words_in_nutrition.png" width="700"/>
 <p align = 'center'>
-    <img src="./images/important_words_in_nutrition.png" width="700"/>
+    <img src="./images/important_words_nutrition.png" width="700"/>
 From the EDA and modeling process, we found out the most common words in Nutrition subreddit includes: “food, vitamin, diet, healthy”, and one of the important words is “workout”. From those words, we can place ads that are related to food, supplements, calorie tracking apps and etc. 
 
 <p align = 'center'>
     <img src="./images/common_words_in_dietetics.png" width="700"/>
 <p align = 'center'>
-    <img src="./images/important_words_in_dietetics.png" width="700"/>    
+    <img src="./images/important_words_dietetics.png" width="700"/>    
 Dietetics subreddit has a totally different vibe, the common & important words include: “work, internship, exams, interview, clinical”. It could be that people who visit this subreddit are either fresh graduates or thinking about switch job, so they are seeking advises or helpful information related to job hunting. In Dietetics subreddit, we can put ads like LinkedIn, resume temple editor or career related ads.  
 
 The accuracy for the models I build are around 90%, and again, with Reddit’s internal support, we are capable to improve base on this. 
